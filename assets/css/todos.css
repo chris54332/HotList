@@ -4,7 +4,7 @@ body {
   background:    -moz-linear-gradient(90deg, #EAECC6 20%, #EAECC6 80%); /* FF3.6+ */
   background:     -ms-linear-gradient(90deg, rgba(43, 191, 228, 0.747) 20%, #EAECC6 80%); /* IE10 */
   background:      -o-linear-gradient(90deg, rgba(43, 191, 228, 0.747) 20%, #EAECC6 80%); /* Opera 11.10+ */
-  background:         linear-gradient(90deg, #EAECC6 2%, rgba(43, 191, 228, 0.747) 98%); /* W3C */
+  background:         linear-gradient(90deg, #EAECC6 2%, rgba(228, 43, 43, 0.747) 98%); /* W3C */
 }
 
 ul {
